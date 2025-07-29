@@ -5,7 +5,7 @@ This is a simple command-line implementation of the classic **Rock Paper Scissor
 ---
 ## 🎮 Features
 - Text-based UI in terminal  
-- Random computer choices using 'rand( )' seeded with time(0)  
+- Random computer choices  
 - Player vs Computer logic  
 - Keeps track of score(wins, loses & draws)  
 - Option to replay the game without restarting  
